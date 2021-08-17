@@ -1,5 +1,5 @@
 # Space Blaster EX
- Space Blaster EX is a horizontally scrolling shoot ‘em up game for the Android Platform.
+ Space Blaster EX is a horizontally scrolling shoot ‘em up game for Android.
  
  These are the Android Studio project files.
  
