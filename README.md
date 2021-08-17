@@ -3,5 +3,5 @@
  
  These are the Android Studio project files.
  
- ![alt test](https://raw.githubusercontent.com/garrettsmithpro/SpaceBlasterEX/main/app/src/main/res/drawable-v24/fly1.png)
- ![alt text](https://raw.githubusercontent.com/garrettsmithpro/SpaceBlasterEX/main/app/src/main/res/drawable-v24/bird2.png)
+ ![alt test](https://raw.githubusercontent.com/garrettsmithpro/SpaceBlasterEX/main/app/src/main/res/drawable-v24/fly1.png)width=100)
+ ![alt text](https://raw.githubusercontent.com/garrettsmithpro/SpaceBlasterEX/main/app/src/main/res/drawable-v24/bird2.png)width=100)
